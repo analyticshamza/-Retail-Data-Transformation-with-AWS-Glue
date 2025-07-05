@@ -56,14 +56,14 @@ The objective of this project is to:
 
 ## 🖼️ Screenshots
 
-| Step | Screenshot |
-|------|------------|
-| S3 Bucket Structure | ![S3 Structure](screenshots/s3-structure.png) |
-| Glue Crawlers | ![Glue Crawlers](screenshots/glue-crawlers.png) |
-| Data Catalog | ![Data Catalog](screenshots/data-catalog.png) |
-| Visual ETL Workflow | ![ETL Workflow](screenshots/visual-etl.png) |
-| Output File | ![Output](screenshots/output-file.png) |
-| S3 Select Query | ![S3 Select](screenshots/s3-select-query.png) |
+| Step                | Screenshot |
+|---------------------|------------|
+| **S3 Bucket Structure** | ![S3 Bucket Structure](https://github.com/user-attachments/assets/316e1e92-eb18-47f0-a09b-fa08d57d2323)<br>![S3 Folders](https://github.com/user-attachments/assets/fdf5793c-ec1c-44a7-9d24-ffc64e097d8c) |
+| **Glue Crawlers**        | ![Crawler Setup](https://github.com/user-attachments/assets/62766695-d991-442a-9dd6-8b4f8319cc82)<br>![Crawler Config](https://github.com/user-attachments/assets/6d8a5e3b-3791-4331-86a9-38989c20d331) |
+| **Data Catalog**         | ![Data Catalog](https://github.com/user-attachments/assets/6ca6adfd-50be-4249-8245-f47fca44e86d) |
+| **Visual ETL Workflow** | ![Visual ETL](https://github.com/user-attachments/assets/1a451426-e8c3-462d-9ef4-dcca1ececf0d) |
+| **S3 Select Query**      | ![S3 Select Query](https://github.com/user-attachments/assets/8b1f596c-c82a-416b-b7ad-af13e04b138a) |
+
 
 ## 🪪 License
 
