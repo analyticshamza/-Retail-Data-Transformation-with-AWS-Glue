@@ -1,0 +1,11 @@
+﻿Product ID,Product Name,Category,Price,Availability
+P101,Smartphone,Electronics,399.99,In Stock
+P102,Laptop,Electronics,899.99,In Stock
+P103,Headphones,Electronics,49.99,Out of Stock
+P104,Smartwatch,Electronics,149.5,In Stock
+P105,T-shirt,Clothing,25.99,In Stock
+P106,Jeans,Clothing,49.99,In Stock
+P107,Shoes,Clothing,79.99,Out of Stock
+P108,Backpack,Accessories,39.99,In Stock
+P109,Watch,Accessories,99.99,In Stock
+P110,Sunglasses,Accessories,29.99,In Stock
